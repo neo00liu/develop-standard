@@ -1,5 +1,5 @@
 ｀
-/** 
+/**
  * Java编码格式个人推荐，参考JDK源码。 
  */ 
 public class CodeRule { 
